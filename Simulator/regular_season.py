@@ -120,31 +120,31 @@ def season_report(games):
         if team in afc_east:
             afc_east_global_positions.append(i)
 
-    for i, team in enumerate(list(winning_dict['Teams'])):
+    # for i, team in enumerate(list(winning_dict['Teams'])):
         if team in afc_north:
             afc_north_global_positions.append(i)
 
-    for i, team in enumerate(list(winning_dict['Teams'])):
+    # for i, team in enumerate(list(winning_dict['Teams'])):
         if team in afc_south:
             afc_south_global_positions.append(i)
 
-    for i, team in enumerate(list(winning_dict['Teams'])):
+    # for i, team in enumerate(list(winning_dict['Teams'])):
         if team in afc_west:
             afc_west_global_positions.append(i)
 
-    for i, team in enumerate(list(winning_dict['Teams'])):
+    # for i, team in enumerate(list(winning_dict['Teams'])):
         if team in nfc_east:
             nfc_east_global_positions.append(i)
 
-    for i, team in enumerate(list(winning_dict['Teams'])):
+    # for i, team in enumerate(list(winning_dict['Teams'])):
         if team in nfc_north:
             nfc_north_global_positions.append(i)
 
-    for i, team in enumerate(list(winning_dict['Teams'])):
+    # for i, team in enumerate(list(winning_dict['Teams'])):
         if team in nfc_south:
             nfc_south_global_positions.append(i)
 
-    for i, team in enumerate(list(winning_dict['Teams'])):
+    # for i, team in enumerate(list(winning_dict['Teams'])):
         if team in nfc_west:
             nfc_west_global_positions.append(i)
     

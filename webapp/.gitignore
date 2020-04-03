@@ -1,0 +1,6 @@
+
+
+# File extentions to be ignore by Github.
+
+*.env
+*.db
