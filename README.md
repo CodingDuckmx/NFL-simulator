@@ -43,19 +43,22 @@ It is important to notice:
 
 Some pictures of what has been achieved so far.
 
-<p align="center">
+<p >
 	<img
 		width="300"
 		alt="coding duck MX"
 		src="https://raw.githubusercontent.com/CodingDuckmx/NFL-simulator/master/playoffs%20demo%20picture%201.png?sanitize=true">
 </p>
 
-<p align="center">
+<p >
 	<img
 		width="300"
 		alt="coding duck MX"
 		src="https://raw.githubusercontent.com/CodingDuckmx/NFL-simulator/master/playoffs%20demo%20picture%202.png?sanitize=true">
 </p>
+
+
+[![Showtime on Youtube](https://img.youtube.com/vi/kZsFmVWHPww/0.jpg)](https://www.youtube.com/watch?v=kZsFmVWHPww)
 
 
 
