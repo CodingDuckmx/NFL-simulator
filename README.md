@@ -71,14 +71,14 @@ The progress through my final goal so far.
   
   Web app:
   
-  * flask = "*"
-  * flask-sqlalchemy = "*"
-  * requests = "*"
-  * flask-wtf = "*"
-  * flask-bcrypt = "*"
-  * flask-login = "*"
-  * pillow = "*"
-  * email-validator = "*"
+  * flask
+  * flask-sqlalchemy
+  * requests
+  * flask-wtf
+  * flask-bcrypt
+  * flask-login
+  * pillow
+  * email-validator
 
 ## Version
 This project is still in progress.
